@@ -1,0 +1,7 @@
+"sep=;"
+name;cc;num_multiprocessors;warp_size;max_threads_per_mp;regs_per_mp;shared_memory_per_mp;total_constant_memory;total_global_memory;clock_rate;max_threads_per_block;max_regs_per_block;max_shared_memory_per_block
+TITAN V;7.0;80;32;2048;65536;98304;65536;12652838912;1455000000;1024;65536;49152
+
+Matrix;rows;cols;nnz;r_mean;r_std_dev;r_min;r_max;Products;cuSparse;acSpGEMM;
+08blocks;300;300;592;1.97333;5.89081;1;38;1176;0.113768;0.188171;
+1138_bus;1138;1138;4054;3.56239;1.80298;2;18;18138;0.21127;0.200923;
